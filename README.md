@@ -5,7 +5,7 @@
 
 ## File Descriptions
 
-#### **1. KOBERT_리뷰데이터_감성분석.ipynb** [[file]](https://github.com/yejinyeo/2023_02_project/blob/main/KOBERT_%EB%A6%AC%EB%B7%B0%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D.ipynb)
+#### **1. [KOBERT_리뷰데이터_감성분석.ipynb**](https://github.com/yejinyeo/2023_02_project/blob/main/KOBERT_%EB%A6%AC%EB%B7%B0%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D.ipynb)
 - **설명**: 이 노트북은 KoBERT 모델을 사용하여 리뷰 데이터를 긍정/부정으로 분류하고, 리뷰 감성 분석을 수행합니다.
 - **주요 내용**:
   - 리뷰 데이터 전처리
