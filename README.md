@@ -5,7 +5,7 @@
 
 ## File Descriptions
 
-#### **1. KOBERT_리뷰데이터_감성분석.ipynb** /  [Open File](https://github.com/yejinyeo/2023_02_project/blob/main/KOBERT_%EB%A6%AC%EB%B7%B0%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D.ipynb)
+#### **1. KOBERT_리뷰데이터_감성분석.ipynb**
 - **설명**: 이 노트북은 KoBERT 모델을 사용하여 리뷰 데이터를 긍정/부정으로 분류하고, 리뷰 감성 분석을 수행합니다.
 - **주요 내용**:
   - 리뷰 데이터 전처리
@@ -13,17 +13,19 @@
   - 긍정/부정 리뷰 분류 결과
 - [Open File](https://github.com/yejinyeo/2023_02_project/blob/main/KOBERT_%EB%A6%AC%EB%B7%B0%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D.ipynb)
 
-#### [**2. 감성리뷰별점변환.ipynb**](https://github.com/yejinyeo/2023_02_project/blob/main/%EA%B0%90%EC%84%B1%EB%A6%AC%EB%B7%B0%EB%B3%84%EC%A0%90%EB%B3%80%ED%99%98.ipynb)
+#### **2. 감성리뷰별점변환.ipynb**
 - **설명**: 이 노트북은 감성 분석 결과를 바탕으로 리뷰의 평점을 재설정합니다.
 - **주요 내용**:
   - 감성 분석 결과 기반 평점 변환 로직
   - 새로운 평점 부여 및 검증
+- [Open File](https://github.com/yejinyeo/2023_02_project/blob/main/%EA%B0%90%EC%84%B1%EB%A6%AC%EB%B7%B0%EB%B3%84%EC%A0%90%EB%B3%80%ED%99%98.ipynb)
 
 #### **3. 리뷰_데이터_요약.ipynb**
 - **설명**: 이 노트북은 리뷰 데이터를 요약하여 중요한 정보를 추출합니다.
 - **주요 내용**:
   - 키워드 추출 및 요약 모델 적용
   - 긍정/부정 리뷰의 핵심 내용 요약
+- [Open File](https://github.com/yejinyeo/2023_02_project/blob/main/%EB%A6%AC%EB%B7%B0_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%9A%94%EC%95%BD.ipynb)
 
 #### **4. 온라인_유통_플랫폼리뷰_분석_모델.ipynb**
 - **설명**: 이 노트북은 전체 리뷰 분석 프로세스를 다룹니다.
@@ -31,6 +33,7 @@
   - 데이터 크롤링 및 전처리
   - 감성 분석 및 요약 모델 적용
   - 결과를 GPT와 연동하여 새로운 수요 창출 아이디어 제시
+- [Open File](https://github.com/yejinyeo/2023_02_project/blob/main/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%9C%A0%ED%86%B5_%ED%94%8C%EB%9E%AB%ED%8F%BC%EB%A6%AC%EB%B7%B0_%EB%B6%84%EC%84%9D_%EB%AA%A8%EB%8D%B8.ipynb)
 
 ## Project Structure
 - **데이터 크롤링**: 온라인 유통 플랫폼에서 리뷰 데이터를 수집합니다.
