@@ -1,5 +1,5 @@
 # 온라인 유통 플랫폼 리뷰 분석 모델
-**tag**: NLP / Sentiment Analysis / Text Summarization
+**Tags**: NLP / Sentiment Analysis / Text Summarization
 
 ## Introduction
 이 프로젝트는 온라인 유통 플랫폼에서 수집한 리뷰 데이터를 분석하여 새로운 수요를 창출하고, 제품 및 서비스의 품질을 개선하기 위한 것입니다. 이를 위해 리뷰 데이터를 크롤링하고, 감성 분석 및 요약 모델을 통해 리뷰의 내용을 분석합니다.
